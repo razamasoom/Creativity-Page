@@ -1,7 +1,7 @@
 # Hey Folks !!! I am Masoom Raza    
 ### This is a Front End Project 
 # Website
-![Headphone-Page](./final.png)
+![Creativity-page](./final.png)
 # Stats 
 ## 1. Things I've Learnt 
   - Media Queries
